@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkDomainSwitchAdapter",
-            url: "https://topon-sdk-release.oss-cn-hangzhou.aliyuncs.com/Temp/juhesdk/AnyThinkDomainSwitchAdapter-6.5.83.zip",
-            checksum: "8a8c17fd31d54786c8a1fd8228b8f34837877f34167fd03c970dbf993ccd5d9f"
+            url: "https://topon-sdk-release.oss-cn-hangzhou.aliyuncs.com/Temp/juhesdk/AnyThinkDomainSwitchAdapter/6.5.83/AnyThinkDomainSwitchAdapter.zip",
+            checksum: "856977060cebad4107ca3cffa85e66277398f69f0bd643cfcbbca80875c290a0"
         )
     ]
 )
